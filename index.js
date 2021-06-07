@@ -11,7 +11,8 @@ const config = {
     },
     identity: { 
         username: "slovakmax",
-        password: "oauth:zuv167g4028cxjztxju8e6nt2vwd0f"
+        //https://twitchapps.com/tmi/
+        password: ""
     },
     channels: [channel]
 }
