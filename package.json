@@ -1,0 +1,22 @@
+{
+  "name": "maxbot",
+  "version": "1.0.0",
+  "description": "Experimental Twitch Chat Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonfsvk/MaxBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonfsvk/MaxBot/issues"
+  },
+  "homepage": "https://github.com/simonfsvk/MaxBot#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.3"
+  }
+}
